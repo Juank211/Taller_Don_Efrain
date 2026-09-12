@@ -24,7 +24,7 @@ const idEdicion = ref(null)
 const filtroBusqueda = ref('')
 const filtroEstado = ref('Todos')
 
-const opcionesTecnicos = ['Efrain', 'Juan', 'Fernando', 'Alexander']
+const opcionesTecnicos = ['Efrain', 'Juan', 'Fernando']
 const opcionesMarcas = [
   'Samsung', 'Apple (iPhone)', 'Xiaomi', 'Motorola', 'Huawei',
   'Honor', 'Realme', 'Oppo', 'Lenovo', 'HP', 'Dell', 'Asus', 'Acer', 'Sony', 'Otra'
